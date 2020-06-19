@@ -1,0 +1,27 @@
+
+Xcom.infosys.project2.order.Controller.OrderController#getproductorders()Ljava/util/List;q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.java7" 7(2"1*ð
+1q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.java8% 8(1€
+ý
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.java8% 8(15
+%0/com.infosys.project2.order.Service.OrderService"__id*K*I7
+5com.infosys.project2.order.Controller.OrderController"
+orderservice­ª
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.java8% 8(D
+%1java.util.List"Rcom.infosys.project2.order.Service.OrderService#getproductorders()Ljava/util/List;*7
+5
+%0/com.infosys.project2.order.Service.OrderService2getproductorders()°
+­
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.java8 8(E
+orderDtojava.util.List"__id*
+
+%1java.util.List"‘
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.java9 9(
+
+orderDtojava.util.ListB97
+5com.infosys.project2.order.Controller.OrderController

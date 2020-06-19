@@ -1,0 +1,39 @@
+
+icom.infosys.project2.order.Controller.OrderController#removeorders(Ljava/lang/Integer;)Ljava/lang/String;q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaL L("1*ê
+1q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaM M(	€
+ÿ
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaM M(	
+%0org.slf4j.Logger"__id*E*C7
+5com.infosys.project2.order.Controller.OrderController"
+logger—Œ
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaM M(@
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+orderidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)Ä
+˝
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaN N(5
+%2/com.infosys.project2.order.Service.OrderService"__id*K*I7
+5com.infosys.project2.order.Controller.OrderController"
+orderservice“œ
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaN N(%
+
+%3void"Rcom.infosys.project2.order.Service.OrderService#removeorders(Ljava/lang/Integer;)V*7
+5
+%2/com.infosys.project2.order.Service.OrderService*
+
+orderidjava.lang.Integer2!removeorders(Ljava/lang/Integer;)"ç
+q
+gC:/Users/Admin/Desktop/orderms/src/main/java/com/infosys/project2/order/Controller/OrderController.javaO O(!
+Deleted successfully:
+orderidjava.lang.IntegerB97
+5com.infosys.project2.order.Controller.OrderController

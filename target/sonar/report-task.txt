@@ -1,0 +1,7 @@
+organization=poorni03
+projectKey=Poorni03_orderms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=Poorni03_orderms
+ceTaskId=AXK25We84fSif5zYC6hY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK25We84fSif5zYC6hY
